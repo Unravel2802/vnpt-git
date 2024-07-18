@@ -1,2 +1,2 @@
 # vnpt-git
-practicing git 
+Phong is practicing git 
